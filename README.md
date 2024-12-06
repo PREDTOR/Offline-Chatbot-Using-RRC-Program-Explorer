@@ -7,6 +7,7 @@ In this project We worked in a team of 3 under the guidance of our instructor Ba
 
 Final Project - Large Language Model Chatbot
 Contributors - Cassandra Phung, Kumar Kartikeyn Arora, Husandeep Kaur
+
 Course - COMP-3704 (254805) Neural Networks and Deep Learning
 Term – Fall 2024
 Institution - Red River College Polytechnic
