@@ -1,0 +1,13 @@
+chromadb = 0.5.17
+langchain = 0.3.7
+langchain-community = 0.3.7
+langchain-core = 0.3.19
+langchain-ollama = 0.2.0
+langchain-text-splitters = 0.3.0
+markdown = 3.7
+nltk = 3.9.1
+ollama = 0.3.3
+open ai = 1.54.3
+python = 3.11.10
+unstructured = 0.16.0
+unstructured-inference = 0.7.36
